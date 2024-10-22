@@ -32,30 +32,30 @@ We expect students have taken undergraduate courses on the following topics befo
 
 ## 2. Calendar
 
-| Week number | Lecture no |   Weekday |       Date |          Time | Teacher | Lecture type |    Topic     |  Materials |
-|:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|-------------:|-----------:|
-|      46     |      0     |           |            |               |  Sander |  Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
-|      46     |     1.1    |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |      Opening | Motivation; LOs; Practical info | [Lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View) |
-|      46     |     1.2    |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/oclc/1124929613) [Lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View) |
-|      46     |     1.3    |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |  Lab session | Liveability in NL | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
-|      47     |     1.4    |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance | [Lecture 4](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3565280/View)|
-|      47     |     1.5    |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander | Oral lecture |              |                |
-|      47     |     1.6    |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander | Lab session  | Artificial neural networks | [Lecture 5](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3567255/View) |
-|      48     |     1.7    |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Mode choice prediction | [Lab session 2](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
-|      48     |     1.8    |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander | Oral lecture | Ensembles; Random forest             |                |
-|      48     |     1.9    |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander | Lab session | Causality; Prediction; Exam preparation |           |
-|      49     |     2.1    |    Monday | 02-12-2024 | 13:45 - 15:45 |  Giacomo | Oral lecture |  |           |
-|      49     |     2.2    |   Tuesday | 03-12-2024 | 10:45 - 12:45 |  Giacomo | Oral lecture  | Mapping images to attractiveness levels | [Lab session 3](https://github.com/TPM034A/Q2_2023/tree/main/Lab_sessions/lab_session_03) |
-|      49     |     2.3    |  Thursday | 05-12-2024 | **08:45 - 10:45** | Giacomo | Lab session |              | [Barredo et al. 2020](https://doi.org/10.1016/j.inffus.2019.12.012);[Lundbert & Lee 2017](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html); [Rolnick et al. 2022](https://doi.org/10.1145/3485128) [Razavi et al. 2021](https://doi.org/10.1016/j.envsoft.2020.104954) |
-|      50     |     2.4    |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo | Oral lecture |              |                |
-|      50     |     2.5    |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo | Lab session  |              |                |
-|      50     |     3.1    |  Thursday | 12-12-2024 | 10:45 - 12:45 |    Amir | Oral lecture | Group projects |                |
-|      51     |     3.2    |    Monday | 16-12-2024 | 13:45 - 15:45 |    Amir |   Group work |              |                |
-|      51     |     3.3    |   Tuesday | 17-12-2024 | 10:45 - 12:45 |         |   Group work |              |                |
-|      51     |     3.4    |  Thursday | 19-12-2024 | 10:45 - 12:45 |    Amir | Group work |              |                |
-|      2      |     3.5    |    Monday | 06-01-2025 | 13:45 - 15:45 |    Amir | Group work |              |                |
-|      2      |     3.6    |   Tuesday | 07-01-2025 | 10:45 - 12:45 |         | Group work |              |                |
-|      2      |     3.7    |  Thursday | 09-01-2025 | 10:45 - 12:45 |    Amir | Group presentations | Group presentations |                |
+| Week | Lecture |   Weekday |       Date |          Time | Teacher |  Lecture type |    Topic     |  Materials |
+|:----:|:-------:|----------:|-----------:|--------------:|--------:|--------------:|-------------:|-----------:|
+|  46  |   0.0   |           |            |               |  Sander |   Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|  46  |   1.1   |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |       Opening | Motivation; LOs; Practical info | [Lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View) 
+|  46  |   1.2   |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/oclc/1124929613) [Lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View) |
+|  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | Liveability in NL | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
+|  47  |   1.4   |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Decision trees; Model performance | [Lecture 4](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3565280/View)|
+|  47  |   1.5   |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture |              |                |
+|  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | Artificial neural networks | [Lecture 5](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3567255/View) |
+|  48  |   1.7   |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Mode choice prediction | [Lab session 2](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
+|  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Ensembles; Random forest             |                |
+|  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | Causality; Prediction; Exam preparation |           |
+|  49  |   2.1   |    Monday | 02-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |  |           |
+|  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture | Mapping images to attractiveness levels | [Lab session 3](https://github.com/TPM034A/Q2_2023/tree/main/Lab_sessions/lab_session_03) |
+|  49  |   2.3   |  Thursday | 05-12-2024 | 08:45 - 10:45 | Giacomo |   Lab session |              | [Barredo et al. 2020](https://doi.org/10.1016/j.inffus.2019.12.012);[Lundbert & Lee 2017](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html); [Rolnick et al. 2022](https://doi.org/10.1145/3485128) [Razavi et al. 2021](https://doi.org/10.1016/j.envsoft.2020.104954) |
+|  50  |   2.4   |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |              |                |
+|  50  |   2.5   |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo |  Lab session  |              |                |
+|  50  |   3.1   |  Thursday | 12-12-2024 | 10:45 - 12:45 |    Amir |  Oral lecture | Group projects |                |
+|  51  |   3.2   |    Monday | 16-12-2024 | 13:45 - 15:45 |    Amir |    Group work |              |                |
+|  51  |   3.3   |   Tuesday | 17-12-2024 | 10:45 - 12:45 |    Amir |    Group work |              |                |
+|  51  |   3.4   |  Thursday | 19-12-2024 | 10:45 - 12:45 |    Amir |    Group work |              |                |
+|  02  |   3.5   |    Monday | 06-01-2025 | 13:45 - 15:45 |    Amir |    Group work |              |                |
+|  02  |   3.6   |   Tuesday | 07-01-2025 | 10:45 - 12:45 |    Amir |    Group work |              |                |
+|  02  |   3.7   |  Thursday | 09-01-2025 | 10:45 - 12:45 |    Amir | Presentations | Group presentations |                |
 
 ## 3. Jupyter notebooks (Lab sessions and Assignments)
 
