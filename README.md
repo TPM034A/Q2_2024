@@ -57,7 +57,25 @@ We expect students have taken undergraduate courses on the following topics befo
 |  02  |   3.6   |   Tuesday | 07-01-2025 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
 |  02  |   3.7   |  Thursday | 09-01-2025 | 10:45 - 12:45 |    Amir | Presentations |                                         | |
 
-## 3. Jupyter notebooks (Lab sessions and Assignments)
+## 3. Software requirements (Lab sessions and Assignments)
+
+In this course you have to follow and develop lab sessions and assignments using Python. For this, you’ll need to prepare your computer by checking and installing with the required software. Specifically you will need three pieces of software:
+
+1. **Python Lanaguage**: This is the software that makes your computer understand Python as a programming language.
+2. Version manager (for python): This one allow you to control the pyt
+3. Code editor
+
+	1.	Standard Installation: Install the software directly on your operating system without using the command line. This is a straightforward option for most users.
+	2.	Minimalist Setup: Provides a basic Python environment with the flexibility to expand and install additional resources. This is ideal if you want to explore Python further beyond the course.
+	3.	Comprehensive Environment: A robust option that installs a complete Python stack along with many useful libraries (including some from R). This option guarantees functionality for the course but limits your ability to install additional libraries later on.
+
+I recommend Option 2 if you want to deepen your Python skills while following the course. If you encounter difficulties, Option 3 is a reliable fallback, ensuring you have everything you need for the course. However, keep in mind that you won’t be able to extend it with new libraries beyond what’s already included.
+
+This version is more concise and direct, while maintaining the same points. Let me know if you’d like further adjustments!
+
+IN PROGRESS
+
+
 
 For the lab sessions and assignments, we use Python notebooks (Jupyter Notebooks). You have two options to work in them:
 
