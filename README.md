@@ -1,4 +1,4 @@
-# TPM034A - Machine learning for socio technical system (Q2 - 2024)
+# TPM034A - Machine learning for socio-technical systems (Q2 - 2024)
 
 ## 1. Introduction
 
