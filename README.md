@@ -97,10 +97,9 @@ NOTES:
  * Run the installer and follow the instructions.
  * Once you have anaconda installed, we need to set up an independent virtual environment that isolates all the functionality we need in this course.
 
-        Python environments function like isolated sandboxes, each with its own versions of Python and packages. You can create, export, list, update, and remove environments as needed. Moving between environments, known as “activating” an environment, allows you to work with different setups for specific projects. When you’re finished with an environment, you can simply “deactivate” it to return to your default settings.
+*Python environments function like isolated sandboxes, each with its own versions of Python and packages. You can create, export, list, update, and remove environments as needed. Moving between environments, known as “activating” an environment, allows you to work with different setups for specific projects. When you’re finished with an environment, you can simply “deactivate” it to return to your default settings.*
 
-
-For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in the this repo: `tom034a_env.yml`.
+For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yml`).
 
 #### S1.2. Creating an environment from an `env.yml` file
  * Download the `yml` file to your computer [download link]()
