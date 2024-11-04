@@ -88,8 +88,8 @@ NOTES:
 - For those with advanced experience in managing Python versions and environments, we also provide the `requirements.txt` file for you to create the respective environment. If you choose this method, ensure you create a virtual environment with Python version 3.11.9 for compatibility. This option is intended for students comfortable with Python’s native package manager, PIP, and manual environment setup.
 </b>
 
-### 4.1. Setup 1: Anaconda (strongly suggested)
-#### S1.1. Installing Anaconda
+### 4.1. SETUP 1: Anaconda (strongly recommended)
+#### SETUP 1.1: Installing Anaconda
  * Download Anaconda for your system:
     - [Windows](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
     - [Mac (silicon)](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.pkg)
@@ -101,29 +101,27 @@ NOTES:
 
 For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yml`).
 
-#### S1.2. Creating an environment from an `env.yml` file
+#### SETUP 1.2: Creating an environment from an `env.yml` file
  * Download the `yml` file to your computer [download link]()
  * Open Anaconda Navigator:
-    1. Go to “Environments” in the left sidebar.
-    2. Click on “Import”
-    3. From your local drive, import the file you just downloaded (*.yml)
-    4. Give the environment a name (e.g., tmp034a)
-    5. Keep the option “Overwrite exisiting environment” unchecked. 
-    6. Click on import (Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes))
+    - (1) Go to “Environments” in the left sidebar.
+    - (2) Click on “Import”
+    - (3) From your local drive, import the file you just downloaded (*.yml)
+    - (4) Give the environment a name (e.g., tmp034a)
+    - (5) Keep the option “Overwrite exisiting environment” unchecked. 
+    - (6) Click on import (Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes))
+    ![Instructions for importing a env from yml](/assets/img_imp_env.png)
  * Once you have the environment ready. We have to choose an interpreter for activating the environment.
 
-![Instructions for importing a env from yml](/assets/img_imp_env.png)
-
-#### S1.3. Using the new environment
+#### SETUP 1.3: Using the new environment
  * Open Anaconda Navigator:
-    1. Go to “Home” in the left sidebar.
-    2. In the scroll menu, select your newly created environment (e.g., tmp034a).
-    3. Choose the interpreter of your preferences. Click on "install", and then "lunch". The course team suggest VS Code. 
+    - (1) Go to “Home” in the left sidebar.
+    - (2) In the scroll menu, select your newly created environment (e.g., tmp034a).
+    - (3) Choose the interpreter of your preferences. Click on "install", and then "lunch". The course team suggest VS Code. 
+    ![Instructions for activating the new env](/assets/img_act_env.png)
 * If everything was installed properly, the interpreter of your preferences in now opening with the env we just created.
 
-![Instructions for activating the new env](/assets/img_act_env.png)
-
-### Setup 3: Google Colab
+### SETUP 3: Google Colab
 
 For this option, you need a Google account, Google Chrome web browser, and a stable internet connection. Please follow the steps we've included below to set up the workspace.
 
