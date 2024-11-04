@@ -57,49 +57,66 @@ We expect students have taken undergraduate courses on the following topics befo
 |  02  |   3.6   |   Tuesday | 07-01-2025 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
 |  02  |   3.7   |  Thursday | 09-01-2025 | 10:45 - 12:45 |    Amir | Presentations |                                         | |
 
-## 3. Software requirements (Lab sessions and Assignments)
+## 3. Q&A Forum
 
-In this course you have to follow and develop lab sessions and assignments using Python. For this, you’ll need to prepare your computer by checking and installing with the required software. Specifically you will need three pieces of software:
-
-1. **Python Lanaguage**: This is the software that makes your computer understand Python as a programming language.
-2. Version manager (for python): This one allow you to control the pyt
-3. Code editor
-
-	1.	Standard Installation: Install the software directly on your operating system without using the command line. This is a straightforward option for most users.
-	2.	Minimalist Setup: Provides a basic Python environment with the flexibility to expand and install additional resources. This is ideal if you want to explore Python further beyond the course.
-	3.	Comprehensive Environment: A robust option that installs a complete Python stack along with many useful libraries (including some from R). This option guarantees functionality for the course but limits your ability to install additional libraries later on.
-
-I recommend Option 2 if you want to deepen your Python skills while following the course. If you encounter difficulties, Option 3 is a reliable fallback, ensuring you have everything you need for the course. However, keep in mind that you won’t be able to extend it with new libraries beyond what’s already included.
-
-This version is more concise and direct, while maintaining the same points. Let me know if you’d like further adjustments!
-
-IN PROGRESS
-
-
-
-For the lab sessions and assignments, we use Python notebooks (Jupyter Notebooks). You have two options to work in them:
-
-- A. Local environment (recommended)
-- B. Google Colab
-
-For both options, **instructions** to set up your Python environment are given at the **end of this page**.
-Accordingly, in each notebook file, we provide two ways to set up your environments: (A) Local or (B) Google Colab 
-
-If you are **unfamiliar with Python**, we recommend completing **lab session 0**, which provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc. 
-
-## 4. Q&A Forum
-
-We use the [Issues](https://github.com/TPM034A/Q2_2023/issues) section as the Q&A platform of this course. Here, you can post your questions related to the content of the lectures, the lab sessions, assignments and technical problems with Python. Before you create a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue; see [Issues](https://github.com/TPM034A/Q2_2023/issues).
+We use the [Issues](https://github.com/TPM034A/Q2_2024/issues) section as the Q&A platform of this course. Here, you can post your questions related to the content of the lectures, the lab sessions, assignments and technical problems with Python. Before you create a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue; see [Issues](https://github.com/TPM034A/Q2_2024/issues).
 
 To create a new issue (question, discussion or problem) in the course repository, follow these steps:
 
 1. Go to the "Issues" section of the course repository.
 2. Click on "New issue" in the green button located at the upper right corner of your screen.
-3. Add an informative title to your question or problem (e.g., "Train method from sklearn does not import in my notebookk").
+3. Add an informative title to your question or problem (e.g., "Train method from sklearn does not import in my notebook").
 4. Describe your issue clearly and concisely. 
 6. Click on "Submit new issue" in the green button below the text description.
 
 After that, the lecturer or teaching assistant will reply to your question. Also, you are allowed (even encouraged) to reply to questions posted by your fellow students! If you know how to help your fellow student with an issue, share your thoughts!
+
+## 4. Software Requirements (Lab Sessions and Assignments)
+
+In this course, lab sessions and assignments will require programming in Python. You’ll need to prepare your computer by installing and setting up essential software in order to complete this course. Specifically, you will need a Python interpreter and a code editor. The interpreter allows your computer to run Python code, and it can be installed directly from Python’s website or through third-party software like Conda or Anaconda. The code editor is where you’ll write and execute Python scripts and notebooks; examples include VS Code and PyCharm.
+
+We offer instructions for three different setup options: (1) Conda + VS Code, (2) Python + VS Code, and (3) Google Colab. While instructions are available for all three, we strongly recommend the first option.
+
+1. <u>Conda + VS Code</u>: This setup involves installing Conda (if not already installed) and configuring the required Python packages for the course. This method is commonly used in other TU Delft courses, so it may be familiar to you.
+2. <u>Python + VS Code</u>: This option uses the basic Python interpreter without additional third-party software, and you’ll manually create and manage local environments. This method is lighter and less invasive but requires familiarity with managing environments and Python versions via the command line.
+3. <u>Google Colab</u>: This option requires no installation on your computer, as you’ll work in an online environment. This makes setup easy, though it requires a stable internet connection and can sometimes be slower than the other options.
+
+**NOTE: If you are **unfamiliar with Python**, we recommend completing **lab session 0** after you complete your setup. This lab provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.**
+
+### Setup 1: Conda + VS Code (strongly suggested)
+#### S1.1. Installing and setting up Conda
+#### S1.2. Installing and setting VS Code
+
+### Setup 2: Python + VS Code
+#### S2.1. Installing and setting up Python
+#### S1.2. Installing and setting VS Code
+
+### Setup 3: Google Colab
+
+For this option, you need a Google account, Google Chrome web browser, and a stable internet connection. Please follow the steps we've included below to set up the workspace.
+
+* Step 1: *Download* or *clone* this repo to your computer.
+	- For downloading: on the top of this site, click on (1) *<>Code* tab, then in the green button (2) *Code* and then (3) *Download ZIP* (See numbers 1, 2, and 3 on the following image). Unzip this file into a working folder of your own choice.
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/1b91d8bd-3425-43bd-819a-7ab41a199151)
+	- For cloning: Open a console (*terminal* on macOS or *CMD* on Windows), locate the console where you want to get this repo, and execute `git clone ...`. The entire repo will be downloaded to your computer. (**IMPORTANT**:You need to have installed [GIT](https://git-scm.com/downloads) for cloning)
+
+* Step 2: Go to [http://colab.research.google.com](http://colab.research.google.com)
+
+* Step 3: Sign in with your Google account (if you are already signed in, skip this step). If you do not have a Google account, you must (temporarily) create one.
+
+* Step 4: Upload the Python notebook you want to work on Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 in the figure below. Then, navigate to your working folder (Step 1) and select the Python notebook (.ipynb) you want to work on (e.g. lab_session_00.ipynb).
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/b06c76a0-3f3b-47a5-8575-1b0b80703a8c)
+
+* Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
+
+* Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
+
+* Step 7: You are all set! You can work on your notebook.
+
+Finally, note that the requirements files may be updated during the course to include more dependencies if needed.
+
+
 
 ## 5. Instructions to set up your workspace
 
@@ -109,8 +126,7 @@ To get started, make sure you have a Python 3.7 or a newer version installed (no
 
 Please follow the steps below to set up your environment.
 
-* Step 1: Clone or download this repo to your computer. For download this repo to your computer. On the top of this site, click on (1) *<>Code* tab, then in the green button (2) *Code* and then (3) *Download ZIP* (See numbers 1, 2, and 3 on the following image). Unzip this file into a working folder of your own choice.
-![img](https://github.com/TPM034A/Q2_2023/assets/29065260/1b91d8bd-3425-43bd-819a-7ab41a199151)
+* Step 1: 
 
 
 
@@ -133,27 +149,7 @@ Please follow the steps below to set up your environment.
         * Activate the environment (on Windows, type: *myenv\Scripts\activate*, on MacOS/Linux, type: *source myenv/bin/activate*).
         * Install requirements from a File. With your environment activated, navigate to the folder containing the requirements.txt file and run: *pip install -r requirements.txt*.
 
-### b. Google Colab 
 
-For this option, you need a Google account,  the Google Chrome web browser, and a stable internet connection.
 
-Please follow the steps we've included below to set up the workspace.
 
-* Step 1: Download this repo to your computer (As we explained in Step 1 for local environment)
-
-* Step 2: Go to [http://colab.research.google.com](http://colab.research.google.com)
-
-* Step 3: Sign in with your Google account (if you are already signed in, skip this step). If you do not have a Google account, you must (temporarily) create one.
-
-* Step 4: Upload the Python notebook you want to work on to Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 in the figure below. Then, navigate to your working folder (Step 1) and select the Python notebook (.ipynb) you want to work on (e.g. lab_session_00.ipynb).
-![img](https://github.com/TPM034A/Q2_2023/assets/29065260/b06c76a0-3f3b-47a5-8575-1b0b80703a8c)
-
-* Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
-
-* Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
-![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
-
-* Step 7: You are all set! You can work on your notebook.
-
-Finally, note that the requirements files may be updated during the course to include more dependencies if needed.
 
