@@ -75,21 +75,35 @@ After that, the lecturer or teaching assistant will reply to your question. Also
 
 In this course, lab sessions and assignments will require programming in Python. You’ll need to prepare your computer by installing and setting up essential software in order to complete this course. Specifically, you will need a Python interpreter and a code editor. The interpreter allows your computer to run Python code, and it can be installed directly from Python’s website or through third-party software like Conda or Anaconda. The code editor is where you’ll write and execute Python scripts and notebooks; examples include VS Code and PyCharm.
 
-We offer instructions for three different setup options: (1) Conda + VS Code, (2) Python + VS Code, and (3) Google Colab. While instructions are available for all three, we strongly recommend the first option.
+We offer instructions for two different setup options: (1) Conda + VS Code, and (3) Google Colab. While instructions are available both, we strongly recommend the first option.
 
-1. <u>Conda + VS Code</u>: This setup involves installing Conda (if not already installed) and configuring the required Python packages for the course. This method is commonly used in other TU Delft courses, so it may be familiar to you.
-2. <u>Python + VS Code</u>: This option uses the basic Python interpreter without additional third-party software, and you’ll manually create and manage local environments. This method is lighter and less invasive but requires familiarity with managing environments and Python versions via the command line.
+1. <u>Anaconda + VS Code</u>: This setup involves installing Anaconda (if not already installed) and configuring the required Python packages for the course. This method is commonly used in other TU Delft courses, so it may be familiar to you.
 3. <u>Google Colab</u>: This option requires no installation on your computer, as you’ll work in an online environment. This makes setup easy, though it requires a stable internet connection and can sometimes be slower than the other options.
 
 **NOTE: If you are **unfamiliar with Python**, we recommend completing **lab session 0** after you complete your setup. This lab provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.**
 
-### Setup 1: Conda + VS Code (strongly suggested)
-#### S1.1. Installing and setting up Conda
+### 4.1. Setup 1: Anaconda + VS Code (strongly suggested)
+#### S1.1. Installing Anaconda
+ * Go to the [Anaconda download page](https://docs.anaconda.com/anaconda/install/).
+ * Choose the appropriate version and click Download.
+ * Run the installer and follow the  instructions.
+
+#### S1.2. Creating a new conda environment
+ * Open Anaconda Navigator: Go to the “Environments” tab on the left sidebar of the Anaconda Navigator.
+ * Create a new environment: Click on the "Create" button at the bottom of the window.
+ * Run the installer and follow the  instructions.
+ * Name your environment and choose Python version: Enter a name for your new environment (e.g., tpm034a) and select Python version 3.11.9 from the drop-down menu.
+
+#### S1.3. Using the conda new environment
+ * Activate the environment:** Go to the “Home” tab in Anaconda Navigator. You should see your newly created environment on the right side. Select it and launch Jupyter Notebook or JupyterLab from here.
+ * Download and set up the course materials:** Download the SEN122A course repository from GitHub. Unzip the file into a working directory of your choice. Inside, you’ll find Jupyter notebooks, a requirements.txt file, and datasets.
+ * Launch JupyterNotebook or JupyterLab and find your workspace**: You will see the Lab session, the `requirements.txt` file, and the `data` folder.
+ * Import packages: Once inside the notebook, locate the requirements.txt file and uncomment the necessary lines in the provided setup code. Run the cells to import all required packages. If some packages fail to install, restart the kernel and rerun the commands.
+ * Run the cells to import all required packages. 
+
 #### S1.2. Installing and setting VS Code
 
-### Setup 2: Python + VS Code
-#### S2.1. Installing and setting up Python
-#### S1.2. Installing and setting VS Code
+SOON
 
 ### Setup 3: Google Colab
 
@@ -118,36 +132,6 @@ Finally, note that the requirements files may be updated during the course to in
 
 
 
-## 5. Instructions to set up your workspace
-
-### a. Local environment (recommended)
-
-To get started, make sure you have a Python 3.7 or a newer version installed (not 3.12). Additionally, ensure you have set up an IPython environment on your computer (Jupyter, VSCode, or any alternatives). We highly recommend VSCode.
-
-Please follow the steps below to set up your environment.
-
-* Step 1: 
-
-
-
-* Step 2: Now you have two options: (a) Install dependencies in a separate Python environment from your current Python version; (b) Install dependencies for this notebook in your Python version (easy way):
-    * Option a: (for those familiar with Python environments):
-        * Create a new "virtual environment" (a separate workspace for this course).
-        * Install the required packages listed in the requirements.txt file within this environment.
-        * Open the notebook you want to work on (Step 1) and make sure it's running in the newly created environment.
-                         
-    * Option b: (easiest way; for people unfamiliar with Python environments):
-        * Open the Python notebook you want to work on (Step 1)
-        * Uncomment the line related to using a local set-up and run it (see the figure below).
-        * Re-comment the lines to avoid re-installing the dependencies every time you run the notebook.
-      ![img](https://github.com/TPM034A/Q2_2023/assets/29065260/db6821fd-00f8-4525-a2d1-0f92728ee1d2)
-
-    * Instructions for creating a new virtual environment (if choose option a):
-        * Open your command prompt or terminal.
-        * Navigate to the directory where you want to create the environment.
-        * Type: python -m venv myenv (Replace myenv with a name you choose for your environment).
-        * Activate the environment (on Windows, type: *myenv\Scripts\activate*, on MacOS/Linux, type: *source myenv/bin/activate*).
-        * Install requirements from a File. With your environment activated, navigate to the folder containing the requirements.txt file and run: *pip install -r requirements.txt*.
 
 
 
