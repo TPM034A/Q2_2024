@@ -73,37 +73,57 @@ After that, the lecturer or teaching assistant will reply to your question. Also
 
 ## 4. Software Requirements (Lab Sessions and Assignments)
 
-In this course, lab sessions and assignments will require programming in Python. You’ll need to prepare your computer by installing and setting up essential software in order to complete this course. Specifically, you will need a Python interpreter and a code editor. The interpreter allows your computer to run Python code, and it can be installed directly from Python’s website or through third-party software like Conda or Anaconda. The code editor is where you’ll write and execute Python scripts and notebooks; examples include VS Code and PyCharm.
+In this course, lab sessions and assignments will require programming in Python. You’ll need to prepare your computer by installing and setting up essential software in order to complete this course. Specifically, you will need a Python interpreter and a code editor. The interpreter allows your computer to run Python code, and it can be installed directly from Python’s website or through third-party software like Conda or Anaconda. The code editor is where you’ll write and execute Python scripts and notebooks; examples include VS Code, PyCharm or JupyterLab.
 
-We offer instructions for two different setup options: (1) Conda + VS Code, and (3) Google Colab. While instructions are available both, we strongly recommend the first option.
+We offer instructions for two different setup options: (1) Anaconda, and (2) Google Colab. While you can do the activities with both, we strongly recommend Anaconda.
 
-1. <u>Anaconda + VS Code</u>: This setup involves installing Anaconda (if not already installed) and configuring the required Python packages for the course. This method is commonly used in other TU Delft courses, so it may be familiar to you.
+1. <u>Anaconda</u>: This setup involves installing Anaconda (if it isn't already installed) and configuring the required Python packages for the course. This method is commonly used in other TU Delft courses, so it may be familiar to you.
 3. <u>Google Colab</u>: This option requires no installation on your computer, as you’ll work in an online environment. This makes setup easy, though it requires a stable internet connection and can sometimes be slower than the other options.
 
-**NOTE: If you are **unfamiliar with Python**, we recommend completing **lab session 0** after you complete your setup. This lab provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.**
+<b style="color: red;">
+NOTES: 
 
-### 4.1. Setup 1: Anaconda + VS Code (strongly suggested)
+- If you are unfamiliar with Python, we recommend completing **lab session 0** after you finish the workspace setup. This lab provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.
+
+- For those with advanced experience in managing Python versions and environments, we also provide the `requirements.txt` file for you to create the respective environment. If you choose this method, ensure you create a virtual environment with Python version 3.11.9 for compatibility. This option is intended for students comfortable with Python’s native package manager, PIP, and manual environment setup.
+</b>
+
+### 4.1. Setup 1: Anaconda (strongly suggested)
 #### S1.1. Installing Anaconda
- * Go to the [Anaconda download page](https://docs.anaconda.com/anaconda/install/).
- * Choose the appropriate version and click Download.
- * Run the installer and follow the  instructions.
+ * Download Anaconda for your system:
+    - [Windows](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
+    - [Mac (silicon)](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.pkg)
+    - [Mac (intel)](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-x86_64.pkg)
+ * Run the installer and follow the instructions.
+ * Once you have anaconda installed, we need to set up an independent virtual environment that isolates all the functionality we need in this course.
 
-#### S1.2. Creating a new conda environment
- * Open Anaconda Navigator: Go to the “Environments” tab on the left sidebar of the Anaconda Navigator.
- * Create a new environment: Click on the "Create" button at the bottom of the window.
- * Run the installer and follow the  instructions.
- * Name your environment and choose Python version: Enter a name for your new environment (e.g., tpm034a) and select Python version 3.11.9 from the drop-down menu.
+<p style="color: skyblue;">
+    <em>Python environments</em> function like isolated sandboxes, each with its own versions of Python and packages. You can create, export, list, update, and remove environments as needed. Moving between environments, known as <em>“activating”</em> an environment, allows you to work with different setups for specific projects. When you’re finished with an environment, you can simply <em>“deactivate”</em> it to return to your default settings.
+</p>
 
-#### S1.3. Using the conda new environment
- * Activate the environment:** Go to the “Home” tab in Anaconda Navigator. You should see your newly created environment on the right side. Select it and launch Jupyter Notebook or JupyterLab from here.
- * Download and set up the course materials:** Download the SEN122A course repository from GitHub. Unzip the file into a working directory of your choice. Inside, you’ll find Jupyter notebooks, a requirements.txt file, and datasets.
- * Launch JupyterNotebook or JupyterLab and find your workspace**: You will see the Lab session, the `requirements.txt` file, and the `data` folder.
- * Import packages: Once inside the notebook, locate the requirements.txt file and uncomment the necessary lines in the provided setup code. Run the cells to import all required packages. If some packages fail to install, restart the kernel and rerun the commands.
- * Run the cells to import all required packages. 
+For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in the this repo: `tom034a_env.yml`.
 
-#### S1.2. Installing and setting VS Code
+#### S1.2. Creating an environment from an `env.yml` file
+ * Download the `yml` file to your computer [download link]()
+ * Open Anaconda Navigator:
+    1. Go to “Environments” in the left sidebar.
+    2. Click on “Import”
+    3. From your local drive, import the file you just downloaded (*.yml)
+    4. Give the environment a name (e.g., tmp034a)
+    5. Keep the option “Overwrite exisiting environment” unchecked. 
+    6. Click on import (Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes))
+ * Once you have the environment ready. We have to choose an interpreter for activating the environment.
 
-SOON
+![Instructions for importing a env from yml](/assets/img_imp_env.png)
+
+#### S1.3. Using the new environment
+ * Open Anaconda Navigator:
+    1. Go to “Home” in the left sidebar.
+    2. In the scroll menu, select your newly created environment (e.g., tmp034a).
+    3. Choose the interpreter of your preferences. Click on "install", and then "lunch". The course team suggest VS Code. 
+* If everything was installed properly, the interpreter of your preferences in now opening with the env we just created.
+
+![Instructions for activating the new env](/assets/img_act_env.png)
 
 ### Setup 3: Google Colab
 
