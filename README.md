@@ -140,7 +140,7 @@ For this option, you need a Google account, Google Chrome web browser, and a sta
 * Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
 
 * Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
-![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
+![img](/assets/colab_uncomment.png)
 
 * Step 7: You are all set! You can work on your notebook.
 
