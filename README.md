@@ -34,7 +34,7 @@ We expect students have taken undergraduate courses on the following topics befo
 
 | Week | Lecture |   Weekday |       Date |          Time | Teacher |  Lecture type |    Topic     |  Materials |
 |:----:|:-------:|----------:|-----------:|--------------:|--------:|--------------:|-------------:|-----------:|
-|  46  |   0.0   |           |            |               |  Sander |   Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|  46  |   0.0   |           |            |               |  Sander |   Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |  46  |   1.1   |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |       Opening | Motivation; LOs; Practical info         | |
 |  46  |   1.2   |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ML; Generalisation; Model development   | |
 |  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | UPDATE TITLE                            | Av. on XX-XX |
@@ -85,7 +85,7 @@ NOTES:
 
 - If you are unfamiliar with Python, we recommend completing **lab session 0** after you finish the workspace setup. This lab provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.
 
-- For those with advanced experience in managing Python versions and environments, we also provide the `requirements.txt` file for you to create the respective environment. If you choose this method, ensure you create a virtual environment with Python version 3.11.9 for compatibility. This option is intended for students comfortable with Python’s native package manager, PIP, and manual environment setup.
+- For those with advanced experience in managing Python versions and environments, we also provide the `requirements.txt` file for you to create the respective environment. If you choose this method, ensure you create a virtual environment with Python version 3.11 for compatibility. This option is intended for students comfortable with Python’s native package manager, PIP, and manual environment setup.
 </b>
 
 ### 4.1. SETUP 1: Anaconda (strongly recommended)
@@ -99,16 +99,16 @@ NOTES:
 
 *Python environments function like isolated sandboxes, each with its own versions of Python and packages. You can create, export, list, update, and remove environments as needed. Moving between environments, known as “activating” an environment, allows you to work with different setups for specific projects. When you’re finished with an environment, you can simply “deactivate” it to return to your default settings.*
 
-For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yml`).
+For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yaml`).
 
-#### SETUP 1.2: Creating an environment from an `env.yml` file
- * Download the `yml` file to your computer [download link]()
+#### SETUP 1.2: Creating an environment from an `env.yaml` file
+ * Download and unzip the `tpm034a_env` file to your computer [download link](tpm034a_env.zip)
  * Open Anaconda Navigator:
     - (1) Go to “Environments” in the left sidebar.
     - (2) Click on “Import”
-    - (3) From your local drive, import the file you just downloaded (*.yml)
+    - (3) From your local drive, import the file you just downloaded (*.yaml)
     - (4) Give the environment a name (e.g., tmp034a)
-    - (5) Keep the option “Overwrite exisiting environment” unchecked. 
+    - (5) Keep the option “Overwrite exisiting environment” UNchecked. 
     - (6) Click on import (Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes))
     ![Instructions for importing a env from yml](/assets/img_imp_env.png)
  * Once you have the environment ready. We have to choose an interpreter for activating the environment.
@@ -140,7 +140,7 @@ For this option, you need a Google account, Google Chrome web browser, and a sta
 * Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
 
 * Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
-![img](/assets/colab_uncomment.png)
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
 
 * Step 7: You are all set! You can work on your notebook.
 
