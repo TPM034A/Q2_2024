@@ -34,22 +34,22 @@ We expect students have taken undergraduate courses on the following topics befo
 
 | Week | Lecture |   Weekday |       Date |          Time | Teacher |  Lecture type |    Topic     |  Materials |
 |:----:|:-------:|----------:|-----------:|--------------:|--------:|--------------:|-------------:|-----------:|
-|  46  |   0.0   |           |            |               |  Sander |   Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
-|  46  |   1.1   |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |       Opening | Motivation; LOs; Practical info         | |
-|  46  |   1.2   |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ML; Generalisation; Model development   | |
-|  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | UPDATE TITLE                            | Av. on XX-XX |
-|  47  |   1.4   |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Decision trees; Model performance       | |
-|  47  |   1.5   |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Artificial neural networks              | |
-|  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | UPDATE TITLE                            | |
-|  48  |   1.7   |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Mode choice prediction                  | |
-|  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Ensembles; Random forest                | |
-|  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | UPDATE TITLE                            | |
+|  46  |   0.0   |           |            |               |  Sander |   Lab session | L0: Basics of python and data analysis | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|  46  |   1.1   |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |       Opening | LOs, Set-up, Scope, Planning, Expectations; What is ML?               | |
+|  46  |   1.2   |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Learning, Generalisation, Model dev, Regression, Geospatial data      | |
+|  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L1: Discover, explore and visualise data| Av. on XX-XX |
+|  47  |   1.4   |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Decision trees; Model performance metrics | |
+|  47  |   1.5   |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ANNs; training; tuning                  | |
+|  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | L2: Artificial Neural Networks                           | |
+|  48  |   1.7   |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Ensembles; Random forest; XGBoost                  | |
+|  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Embeddings, Causality; In vs out-of-distribution generalisation               | |
+|  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L3: Working with image embeddings                            | |
 |  49  |   2.1   |    Monday | 02-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
 |  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture | Mapping images to attractiveness levels | |
 |  49  |   2.3   |  Thursday | 05-12-2024 | 08:45 - 10:45 | Giacomo |   Lab session |                                         | | 
 |  50  |   2.4   |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
 |  50  |   2.5   |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo |  Lab session  |                                         | |
-|  50  |   3.1   |  Thursday | 12-12-2024 | 10:45 - 12:45 |    Amir |  Oral lecture |                                         | |
+|  50  |   3.1   |  Thursday | 12-12-2024 | 10:45 - 12:45 |    Amir |  Oral lecture | Pitches by TPM researchers for the mini-projects                                        | |
 |  51  |   3.2   |    Monday | 16-12-2024 | 13:45 - 15:45 |    Amir |    Group work |                                         | |
 |  51  |   3.3   |   Tuesday | 17-12-2024 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
 |  51  |   3.4   |  Thursday | 19-12-2024 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
