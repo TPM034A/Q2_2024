@@ -126,7 +126,7 @@ NOTES:
 For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yaml`).
 
 #### SETUP 1.2: Creating an environment from an `env.yaml` file
- * Download and unzip the `tpm034a_env` file to your computer [download link](https://github.com/TPM034A/Q2_2024/raw/refs/heads/main/tpm034a_env.zip)
+ * Download and unzip the `tpm034a_env` file to your computer ([download link](https://github.com/TPM034A/Q2_2024/raw/refs/heads/main/tpm034a_env.zip))
  * Open Anaconda Navigator:
     - (1) Go to “Environments” in the left sidebar.
     - (2) Click on “Import”
