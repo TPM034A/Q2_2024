@@ -69,13 +69,13 @@ The assignments have to be submitted directly to Brightspace.
 |  46  | Friday    | 08-11-2024 |   23:59    | Lab 0 publication        |                 |
 |  46  | Monday    | 11-11-2024 |   16:00    | Lab 1 publication        |                 |
 |  46  | Wednesday | 13-11-2024 |   09:00    | Assignment 1 publication |                 |
-|  46  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        |                 |
-|  46  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |                 |
-|  46  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        |                 |
-|  46  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication |                 |
-|  46  | Wednesday | 02-12-2024 |   16:00    | Lab 4 publication        |                 |
-|  46  | Wednesday | 09-12-2024 |   16:00    | Lab 5 publication        |                 |
-|  46  | Wednesday | 12-12-2024 |   09:00    | Deadline Assignment 1    |                 |
+|  47  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        |                 |
+|  48  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |                 |
+|  48  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        |                 |
+|  48  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication |                 |
+|  49  | Monday    | 02-12-2024 |   16:00    | Lab 4 publication        |                 |
+|  50  | Monday    | 09-12-2024 |   16:00    | Lab 5 publication        |                 |
+|  50  | Wednesday | 12-12-2024 |   09:00    | Deadline Assignment 1    |                 |
 
 
 
