@@ -37,7 +37,7 @@ We expect students have taken undergraduate courses on the following topics befo
 |  46  |   0.0   |           |            |               |  Sander |   Lab session | L0: Basics of python and data analysis | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |  46  |   1.1   |    Monday | 11-11-2024 | 13:45 - 15:45 |  Sander |       Opening | LOs, Set-up, Scope, Planning, Expectations; What is ML?               | |
 |  46  |   1.2   |   Tuesday | 12-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Learning, Generalisation, Model dev, Regression, Geospatial data      | |
-|  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L1: Discover, explore and visualise data| Av. on XX-XX |
+|  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L1: Discover, explore and visualise data| |
 |  47  |   1.4   |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Decision trees; Model performance metrics | |
 |  47  |   1.5   |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ANNs; training; tuning                  | |
 |  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | L2: Artificial Neural Networks                           | |
