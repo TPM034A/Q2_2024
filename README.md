@@ -30,7 +30,11 @@ We expect students have taken undergraduate courses on the following topics befo
     – Statistics & Data analyses (e.g. hypothesis testing, correlation, etc.)
     – Python programming (basic level)
 
-## 2. Calendar
+## 2. Calendars
+
+Please see below the schedule of the lectures and lab sessions, and the calendar of publication and deadlines.
+
+### 2.1. Course schedule
 
 | Week | Lecture |   Weekday |       Date |          Time | Teacher |  Lecture type |    Topic     |  Materials |
 |:----:|:-------:|----------:|-----------:|--------------:|--------:|--------------:|-------------:|-----------:|
@@ -56,6 +60,26 @@ We expect students have taken undergraduate courses on the following topics befo
 |  02  |   3.5   |    Monday | 06-01-2025 | 13:45 - 15:45 |    Amir |    Group work |                                         | |
 |  02  |   3.6   |   Tuesday | 07-01-2025 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
 |  02  |   3.7   |  Thursday | 09-01-2025 | 10:45 - 12:45 |    Amir | Presentations |                                         | |
+
+### 2.2. Publication dates and deadlines
+The assignments have to be submitted directly to Brightspace.
+
+| Week |  Weekday  |    Date    |    Time    |           Event          |    Materials    |
+|:----:|:---------:|-----------:|-----------:|-------------------------:|----------------:|
+|  46  | Friday    | 08-11-2024 |   23:59    | Lab 0 publication        |                 |
+|  46  | Monday    | 11-11-2024 |   16:00    | Lab 1 publication        |                 |
+|  46  | Wednesday | 13-11-2024 |   09:00    | Assignment 1 publication |                 |
+|  46  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        |                 |
+|  46  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |                 |
+|  46  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        |                 |
+|  46  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication |                 |
+|  46  | Wednesday | 02-12-2024 |   16:00    | Lab 4 publication        |                 |
+|  46  | Wednesday | 09-12-2024 |   16:00    | Lab 5 publication        |                 |
+|  46  | Wednesday | 12-12-2024 |   09:00    | Deadline Assignment 1    |                 |
+
+
+
+
 
 ## 3. Q&A Forum
 
