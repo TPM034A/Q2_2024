@@ -49,7 +49,7 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Embeddings, Causality; In vs out-of-distribution generalisation               | |
 |  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L3: Working with image embeddings                            | |
 |  49  |   2.1   |    Monday | 02-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
-|  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture | Mapping images to attractiveness levels | |
+|  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture |                                         | |
 |  49  |   2.3   |  Thursday | 05-12-2024 | 08:45 - 10:45 | Giacomo |   Lab session |                                         | | 
 |  50  |   2.4   |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
 |  50  |   2.5   |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo |  Lab session  |                                         | |
