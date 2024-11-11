@@ -66,8 +66,8 @@ The assignments have to be submitted directly to Brightspace.
 
 | Week |  Weekday  |    Date    |    Time    |           Event          |    Materials    |
 |:----:|:---------:|-----------:|-----------:|-------------------------:|----------------:|
-|  46  | Friday    | 08-11-2024 |   23:59    | Lab 0 publication        |                 |
-|  46  | Monday    | 11-11-2024 |   16:00    | Lab 1 publication        |                 |
+|  46  | Friday    | 08-11-2024 |   23:59    | Lab 0 publication        | [Lab session 0](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|  46  | Monday    | 11-11-2024 |   16:00    | Lab 1 publication        | [Lab session 1](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) |
 |  46  | Wednesday | 13-11-2024 |   09:00    | Assignment 1 publication |                 |
 |  47  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        |                 |
 |  48  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |                 |
