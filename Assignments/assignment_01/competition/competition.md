@@ -28,7 +28,7 @@ This competition can give you up to 0.5 grading BONUS points in the final grade 
 | 9    | 0.1   |
 | 10   | 0.05  |
 
-The competiton have a web interface where you can submit your predictions and check the ranking. The web interface is available at: [http://class-competitor.tpm.tudelft.nl](http://class-competitor.tpm.tudelft.nl). Please read carefully the technical guidelines below to understand how to submit your predictions.
+The competiton have a web interface where you can submit your predictions and check the ranking. The web interface is available at: [https://class-competitor.tpm.tudelft.nl](https://class-competitor.tpm.tudelft.nl). Please read carefully the technical guidelines below to understand how to submit your predictions.
 
 ## Technical Guidelines
 
