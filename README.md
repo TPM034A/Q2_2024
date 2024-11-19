@@ -44,7 +44,7 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |  46  |   1.3   |    Friday | 15-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L1: Discover, explore and visualise data| [Lab session 1](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb)|
 |  47  |   1.4   |    Monday | 18-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Decision trees; Model performance metrics | |
 |  47  |   1.5   |   Tuesday | 19-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | ANNs; training; tuning                  | |
-|  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | L2: Artificial Neural Networks                           | |
+|  47  |   1.6   |    Friday | 22-11-2024 | 10:45 - 12:45 |  Sander |  Lab session  | L2: Artificial Neural Networks | [Lab session 2](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb) |
 |  48  |   1.7   |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Ensembles; Random forest; XGBoost                  | |
 |  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Embeddings, Causality; In vs out-of-distribution generalisation               | |
 |  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L3: Working with image embeddings                            | |
@@ -69,7 +69,7 @@ The assignments have to be submitted directly to Brightspace.
 |  46  | Friday    | 08-11-2024 |   23:59    | Lab 0 publication        | [Lab session 0](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |  46  | Monday    | 11-11-2024 |   16:00    | Lab 1 publication        | [Lab session 1](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) |
 |  46  | Wednesday | 13-11-2024 |   09:00    | Assignment 1 publication | [Assignment 1](https://github.com/TPM034A/Q2_2024/blob/main/Assignments/assignment_01/assignment_01.ipynb) |
-|  47  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        |                 |
+|  47  | Monday    | 18-11-2024 |   16:00    | Lab 2 publication        | [Lab session 2](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb) |
 |  48  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |                 |
 |  48  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        |                 |
 |  48  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication |                 |
