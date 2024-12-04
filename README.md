@@ -73,7 +73,7 @@ The assignments have to be submitted directly to Brightspace.
 |  48  | Monday    | 25-11-2024 |   09:00    | Deadline Assignment 1    |      PASSED     |
 |  48  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        | [Lab session 3](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_03/lab_session_03.ipynb)  |
 |  48  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication | [Assignment 2](https://github.com/TPM034A/Q2_2024/blob/main/Assignments/assignment_02/assignment_02.ipynb) |
-|  49  | Monday    | 02-12-2024 |   16:00    | Lab 4 publication        |                 |
+|  49  | Wednesday    | 04-12-2024 |   18:00    | Lab 4 publication        |                 |
 |  50  | Monday    | 09-12-2024 |   16:00    | Lab 5 publication        |                 |
 |  50  | Wednesday | 12-12-2024 |   09:00    | Deadline Assignment 1    |                 |
 
