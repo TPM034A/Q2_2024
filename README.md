@@ -48,11 +48,11 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |  48  |   1.7   |    Monday | 25-11-2024 | 13:45 - 15:45 |  Sander |  Oral lecture | Ensembles; Random forest; XGBoost                  | |
 |  48  |   1.8   |   Tuesday | 26-11-2024 | 10:45 - 12:45 |  Sander |  Oral lecture | Embeddings, Causality; In vs out-of-distribution generalisation               | |
 |  48  |   1.9   |    Friday | 29-11-2024 | 10:45 - 12:45 |  Sander |   Lab session | L3: Working with image embeddings | [Lab session 3](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_03/lab_session_03.ipynb) |
-|  49  |   2.1   |    Monday | 02-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
-|  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture |                                         | |
-|  49  |   2.3   |  Thursday | 05-12-2024 | 08:45 - 10:45 | Giacomo |   Lab session |                                         | | 
-|  50  |   2.4   |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture |                                         | |
-|  50  |   2.5   |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo |  Lab session  |                                         | |
+|  49  |   2.1   |    Monday | 02-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture | The risks of AI, Explainable AI, Transparency, Explanation by simplification                                        | |
+|  49  |   2.2   |   Tuesday | 03-12-2024 | 10:45 - 12:45 | Giacomo |  Oral lecture | Global model-agnostic methods (Partial Dependence Plots, Individual Conditional Expectation Plots), LIME, SHAP                                        | |
+|  49  |   2.3   |  Thursday | 05-12-2024 | 08:45 - 10:45 | Giacomo |   Lab session | L4: Explainable AI and energy prediction                                        | | 
+|  50  |   2.4   |    Monday | 09-12-2024 | 13:45 - 15:45 | Giacomo |  Oral lecture | Other post-hoc explainability tools (GSA, PFI), Responsible AI, XAI and climate change, Recap                                        | |
+|  50  |   2.5   |   Tuesday | 10-12-2024 | 10:45 - 12:45 | Giacomo |  Lab session  | L5: Explainable AI and appliance usage prediction                                        | |
 |  50  |   3.1   |  Thursday | 12-12-2024 | 10:45 - 12:45 |    Amir |  Oral lecture | Pitches by TPM researchers for the mini-projects                                        | |
 |  51  |   3.2   |    Monday | 16-12-2024 | 13:45 - 15:45 |    Amir |    Group work |                                         | |
 |  51  |   3.3   |   Tuesday | 17-12-2024 | 10:45 - 12:45 |    Amir |    Group work |                                         | |
@@ -74,7 +74,7 @@ The assignments have to be submitted directly to Brightspace.
 |  48  | Monday    | 25-11-2024 |   16:00    | Lab 3 publication        | [Lab session 3](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_03/lab_session_03.ipynb)  |
 |  48  | Wednesday | 27-11-2024 |   09:00    | Assignment 2 publication | [Assignment 2](https://github.com/TPM034A/Q2_2024/blob/main/Assignments/assignment_02/assignment_02.ipynb) |
 |  49  | Wednesday    | 04-12-2024 |   18:00    | Lab 4 publication        | [Lab session 4](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_04/lab_session_04.ipynb)                |
-|  50  | Monday    | 09-12-2024 |   16:00    | Lab 5 publication        |                 |
+|  50  | Monday    | 09-12-2024 |   16:00    | Lab 5 publication        | [Lab session 5](https://github.com/TPM034A/Q2_2024/blob/main/Lab_sessions/lab_session_05/lab_session_05.ipynb)                |
 |  50  | Wednesday | 12-12-2024 |   09:00    | Deadline Assignment 2    |                 |
 
 
