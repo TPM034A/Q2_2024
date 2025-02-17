@@ -1,6 +1,6 @@
 # TPM034A - Machine learning for socio-technical systems (Q2 - 2024)
 
-## 1. Introduction
+## 1. Introduction.
 
 Welcome to the git repository of *TPM034A - Machine learning for socio-technical systems* course. Here, you will find notebooks and sources for lab sessions and assignments related to the course. Please review the following information carefully.
 
